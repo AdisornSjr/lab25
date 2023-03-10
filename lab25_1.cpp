@@ -63,7 +63,7 @@ void List::append(int d){
 	size++;
 }
 
-//Write List::remove() here
+
 void List::remove(int d){
 	if(d == 0 ){
 		Node *q = root;

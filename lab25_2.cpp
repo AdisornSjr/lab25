@@ -54,7 +54,6 @@ int main(){
 
 	
 	
-	//Write your code here
 	
 	printList(line_up);
 		
