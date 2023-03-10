@@ -80,7 +80,5 @@ void List::remove(int d){
 	current->next = p->next;
 	delete p;
 
-
-
 	size--;
 }

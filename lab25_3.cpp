@@ -22,6 +22,7 @@ int main(){
 	cout << "There are " << count(data,sizeof(data)/sizeof(int)); 
 	cout << " different numbers in data.";
 	
+	
 	return 0;
 
 }
